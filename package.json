@@ -1,0 +1,24 @@
+{
+  "name": "pro_webpack_loader",
+  "version": "1.0.0",
+  "description": "webpack pro file loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengweifu/pro_webpack_loader.git"
+  },
+  "keywords": [
+    "pro",
+    "webpack",
+    "loader"
+  ],
+  "author": "fun.zheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhengweifu/pro_webpack_loader/issues"
+  },
+  "homepage": "https://github.com/zhengweifu/pro_webpack_loader#readme"
+}
